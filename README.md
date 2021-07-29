@@ -1,4 +1,4 @@
-# S1X Server Configuration for Linux
+# S1x Server Configuration for Linux
 
 <ul>
   <li> Adaptation of <b>Batch files</b> to <b>Bash Shell</b> <i>(Running on linux server)</i> </li>
